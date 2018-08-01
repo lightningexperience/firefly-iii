@@ -30,7 +30,7 @@ echo '<!DOCTYPE HTML>
         window.location.href = "./public/";
         }, 8000);
     </script>
-    <title>Firefly III</title>
+    <title>Investors Group</title>
     <style>
     p {font-family:Arial,sans-serif;font-size:18px;color:#222;text-align:center;}
 </style>
